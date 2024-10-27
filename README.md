@@ -2,6 +2,7 @@
 <h3 align="center">Greetings! 🌟 Let's craft amazing software solutions! 💻🚀</h3>
 
 <h3 align="left">Connect with me:</h3>
+  <a href="mailto:tu_correo@protonmail.com">fechamo@protonmail.me</a>
 <p align="left">
 </p>
 
