@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">Greetings! 🌟 Let's craft amazing software solutions! 💻🚀</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="mailto:tu_correo@protonmail.com">tu_correo@protonmail.com</a>
+<p align="left" <strong>How to reach me:</strong> <a href="mailto:tu_correo@protonmail.com">tu_correo@protonmail.com</a>.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,5 +35,14 @@
     </a> 
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" height="40"/> 
+    </a>
+    <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> 
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
+    </a>
+    <a href="https://trello.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/> 
     </a>
 </p>
