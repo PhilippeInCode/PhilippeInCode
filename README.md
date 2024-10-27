@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">Greetings! 🌟 Let's craft amazing software solutions! 💻🚀</h3>
 
-<p align="left">• <strong>How to reach me:</strong> <a href="mailto:fechamo@protonmail.me">fechamo@protonmail.me</a>.</p>
+<p align="left">• <strong>How to reach me:</strong> <a href="mailto:fechamo@proton.me">fechamo@proton.me</a>.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
