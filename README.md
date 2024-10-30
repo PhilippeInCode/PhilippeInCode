@@ -4,7 +4,7 @@
 <p align="left">• <strong>How to reach me:</strong> <a href="mailto:fechamo@proton.me">fechamo@proton.me</a>.</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left" style="line-height: 0;"> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" style="display: block;"/>
     </a> 
