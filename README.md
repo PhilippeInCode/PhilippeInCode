@@ -5,7 +5,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <div class="stats">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" style="vertical-align: middle;"/>
     </a> 
@@ -45,11 +44,5 @@
     <a href="https://trello.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/> 
     </a>
-    </div>
-    <style>
-    .stats a {
-    text-decoration: none;
-}
-</style>
 </p>
 
