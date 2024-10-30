@@ -46,9 +46,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/> 
     </a>
     </div>
-</p>
-<style>
+    <style>
     .stats a {
     text-decoration: none;
 }
 </style>
+</p>
+
