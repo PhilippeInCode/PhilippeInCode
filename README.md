@@ -4,12 +4,21 @@
 <p align="left">• <strong>How to reach me:</strong> <a href="mailto:fechamo@proton.me">fechamo@proton.me</a>.</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="line-height: 0;"> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" style="display: block;"/>
+<style>
+    .icon-link {
+        text-decoration: none;
+    }
+    .icon-link img {
+        display: block;
+    }
+</style>
+
+<p align="left"> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" class="icon-link"> 
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
     </a> 
-    <a href="https://isocpp.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40" style="display: block;"/>
+    <a href="https://isocpp.org/" target="_blank" rel="noreferrer" class="icon-link"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
     </a> 
     <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
