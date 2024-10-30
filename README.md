@@ -4,15 +4,6 @@
 <p align="left">• <strong>How to reach me:</strong> <a href="mailto:fechamo@proton.me">fechamo@proton.me</a>.</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<style>
-    .icon-link {
-        text-decoration: none;
-    }
-    .icon-link img {
-        display: block;
-    }
-</style>
-
 <p align="left"> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" class="icon-link"> 
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
