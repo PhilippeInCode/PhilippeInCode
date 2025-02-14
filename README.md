@@ -21,4 +21,5 @@
     <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/></a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/></a>
     <a href="https://jestjs.io/es-ES/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jest.svg?sanitize=true" alt="jest" width="40" height="40"/></a>
+    <a href="https://es.react.dev/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/Mjqb43tujeY0gZZUCJV5hqXW2R72a6hDoyDoP8uMaGw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy80/LzQ3L1JlYWN0LnN2/Zw" alt="react" width="40" height="40"/></a>
 </p>
