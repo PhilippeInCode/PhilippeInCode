@@ -23,6 +23,7 @@
     <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/></a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/linDLuCrb1B71Jtl1QP-3vAdm7VNtPqEZWlf2RStp44/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9i/L2IyL0Jvb3RzdHJh/cF9sb2dvLnN2Zw" alt="bootstrap" width="40" height="40"/></a>
     <a href="https://es.react.dev/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/Mjqb43tujeY0gZZUCJV5hqXW2R72a6hDoyDoP8uMaGw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy80/LzQ3L1JlYWN0LnN2/Zw" alt="react" width="45" height="40"/></a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/333609/tailwind-css.svg" alt="tailwindcss" width="45" height="40"/></a>
     <a href="https://jestjs.io/es-ES/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jest.svg?sanitize=true" alt="jest" width="40" height="40"/></a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/AqUcZ0-bzZs1xeAzggyL3WpD7ivCDshG7lkE5yu1QXs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9wb3N0bWFuLnN2/Zw" alt="postman" width="45" height="45"/></a>
 </p>
